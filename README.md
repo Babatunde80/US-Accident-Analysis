@@ -1,4 +1,5 @@
 # US Traffic Accident Analysis - Data Analytics Project
+<img width="1536" height="1024" alt="US Traffic Analysis" src="https://github.com/user-attachments/assets/ff2ec2e7-d61a-45be-b87a-0e8751147980" />
 
 ## Project Overview
 A comprehensive data analytics project analyzing 99,999 US traffic accidents across 2021-2022 using Excel-based business intelligence tools. This project leverages **advanced Excel analytics, pivot tables, and interactive dashboards** to identify accident patterns, high-risk locations, and severity trends, supporting data-driven traffic safety initiatives and emergency response optimization.
